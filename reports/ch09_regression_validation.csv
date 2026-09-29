@@ -1,0 +1,7 @@
+﻿check,value,status
+forbidden_feature_overlap,없음,PASS
+strict_train_before_test,2026-05-27 < 2026-05-30,PASS
+selected_model_exists_in_train_cv,Random Forest,PASS
+final_test_contains_baseline,True,PASS
+final_test_contains_frozen_selected_model,True,PASS
+test_rows_for_r2,59,PASS
